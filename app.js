@@ -116,6 +116,10 @@ function solveCalculationStep(array, operationTest){
 
 /*=== Helper Functions ===
 - findIndex Tester
+    - add         = &#43;
+    - substract   = &#8722; doesn't interfere with regular "-" used for plusminus
+    - multiply    = &#215;
+    - divide      = &#247;
 - Operation Switch
 - Math Functions
 =============================================================================*/
