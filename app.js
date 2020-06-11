@@ -18,7 +18,7 @@ Table of contets:
 =============================================================================*/
 const numbers = Array.from(document.querySelectorAll(".cl-buttons__number"));
 const operators = Array.from(document.querySelectorAll(".cl-buttons__operator"));
-const display = document.querySelector(".cl-display__main");
+const display = document.querySelector(".cl-display");
 const clear = document.querySelector(".cl-buttons__clear");
 const plusminus = document.querySelector(".cl-buttons__plusminus");
 const back = document.querySelector(".cl-buttons__back");
